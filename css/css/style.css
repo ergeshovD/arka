@@ -15,3 +15,170 @@ body {
 #header {
 
 }
+
+
+
+
+
+#contact{
+    background: #EEEEEE;
+}
+.contact{
+    padding: 100px 0;
+}
+.img-contact{
+    display: flex;
+    justify-content: space-around;
+}
+.text-contact{
+    display: flex;
+    justify-content: space-around;
+    margin: 100px 0;
+    line-height: 30px;
+}
+.contact p{
+    color: #A1A1A1;
+}
+
+
+
+
+#start{
+    background:  #EEEEEE;;
+}
+.start{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #FFCA3A;
+    padding: 80px;
+    line-height: 25px;
+}
+.start-hero p{
+    margin: 20px 0;
+}
+.btn-start{
+    background: #FFFFFF;
+    border-radius: 44px;
+    padding: 10px 30px;
+    border: none;
+}
+.line-start{
+    height: 300px;
+    border: solid 1px darkgray;
+}
+
+
+
+
+#motion{
+    background:  #EEEEEE;;
+}
+.motion{
+     background: white;
+ }
+.logo-motion{
+    display: flex;
+    justify-content: center;
+    padding: 150px 0 70px 0;
+    color: #011F3A;
+}
+.img-mtn{
+    display: flex;
+    justify-content: space-around;
+    padding: 60px 0;
+}
+.motion-cnt{
+    display: flex;
+    align-items: center;
+    margin: 20px 0;
+}
+.motion-cnt p{
+    margin: 0 10px;
+}
+.btn-motion{
+    background: #F2F2F2;
+    border-radius: 44px;
+    padding: 10px 30px;
+    border: none;
+}
+.img-motion{
+    display: flex;
+    height: 285px;
+    margin: 50px 0 0 0;
+}
+.grid{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    line-height: 25px;
+}
+
+
+
+
+#menu{
+    background: #EEEEEE;;
+}
+.btn-menu{
+    background: #3D5675;
+    border-radius: 44px;
+    padding: 10px 40px;
+    border: none;
+    color: white;
+    margin: 50px 10px;
+
+}
+.btn-men{
+    background: #FFFFFF;
+    border-radius: 44px;
+    padding: 10px 40px;
+    border: none;
+    color: #3D5675;
+    margin: 50px 10px;
+}
+.menu{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 100px 0;
+}
+
+
+
+
+#footer{
+    background: #F2F3F4;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px 0;
+    line-height: 40px;
+    color: #3D5675;
+}
+.input-footer{
+    background: #FFFFFF;
+    border-radius: 34px;
+    border: none;
+    padding: 8px 50px;
+    margin: 10px 0;
+}
+.btn-footer{
+    background: #3D5675;
+    border-radius: 44px;
+    border: none;
+    color: white;
+    width: 170px;
+    padding: 10px;
+}
+.input{
+    display: flex;
+    flex-direction: column;
+}
+.icon-footer{
+    font-size: 30px;
+    color: #3D5675;
+    padding: 10px 10px 0 0;
+}
